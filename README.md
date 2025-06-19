@@ -38,6 +38,12 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
    > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
    > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
 
+## Publicar en Firebase Hosting
+
+Si prefieres alojar este sitio en Firebase, consulta el archivo
+[`firebase-hosting.md`](./firebase-hosting.md) para conocer los pasos
+básicos de configuración y despliegue.
+
 <footer>
 
 <!--
